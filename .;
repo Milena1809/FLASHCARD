@@ -23,14 +23,16 @@ scale=1.0”>
         </main>
         <footer>    
         </footer>
+<section id=”container”>
+  <article class=”cartao”>
+    <div class=”cartao__conteudo”> </div>
+</article>
+</section>
     </body>
 </html>
 <main>
 
 <section id=”container”>
 </section>
-</main>
-
-
-
+</main
 
